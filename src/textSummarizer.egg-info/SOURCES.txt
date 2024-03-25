@@ -1,11 +1,11 @@
 LICENSE
 README.md
 setup.py
-src/Text_Summariser.egg-info/PKG-INFO
-src/Text_Summariser.egg-info/SOURCES.txt
-src/Text_Summariser.egg-info/dependency_links.txt
-src/Text_Summariser.egg-info/top_level.txt
 src/textSummarizer/__init__.py
+src/textSummarizer.egg-info/PKG-INFO
+src/textSummarizer.egg-info/SOURCES.txt
+src/textSummarizer.egg-info/dependency_links.txt
+src/textSummarizer.egg-info/top_level.txt
 src/textSummarizer/components/__init__.py
 src/textSummarizer/config/__init__.py
 src/textSummarizer/config/configurations.py

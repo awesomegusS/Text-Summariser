@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
-Name: Text-Summariser
+Name: textSummarizer
 Version: 0.0.0
 Summary: Python package for NLP app
-Home-page: https://github.com/awesomegusS/End-to-end-Text-Summarization
+Home-page: https://github.com/awesomegusS/Text-Summariser
 Author: awesomegusS
 Author-email: godswillikwan01@gmail.com
 License: UNKNOWN
-Project-URL: Bug Tracker, https://github.com/awesomegusS/End-to-end-Text-Summarization/issues
+Project-URL: Bug Tracker, https://github.com/awesomegusS/Text-Summariser/issues
 Platform: UNKNOWN
 License-File: LICENSE
 
